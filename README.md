@@ -64,3 +64,6 @@ The Employee Performance Prediction Classification project represents a pivotal 
 machine learning to drive effective talent management. By employing a diverse set of algorithms and feature selection
 methodologies, this project empowers organizations to make informed decisions about their workforce, ultimately
 contributing to the overall success of the business.
+
+
+https://drive.google.com/drive/folders/1SKiVsbdTBARvnnRcU9BKJ1tV0EUPWjd_?usp=drive_link
